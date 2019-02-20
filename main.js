@@ -1,9 +1,9 @@
 function createJsonFeed(resolution) {
   json = {
     get: 'user',
-    userId: '2956328096',
-    clientId: '252adee577c54290b95bce5e0402d743',
-    accessToken: '2956328096.252adee.1236d11b36674de19e2208bfb4f9a4fe',
+    userId: '**',
+    clientId: '**',
+    accessToken: '**',
     resolution: resolution,
     limit: 4,
     template: '<a href="{{link}}">' +
